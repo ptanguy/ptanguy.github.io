@@ -1,0 +1,163 @@
+{
+    margin:0;
+    padding:0;
+}
+
+article, aside, header, footer, nav {
+    display: block;
+}
+
+a:link {
+    color: black;
+}
+
+body {
+    background-color: white;;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#card {
+    margin: 40px auto;
+    width: 960px;
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 20px rgba(0,0,0, 0.1);
+}
+
+#brand {
+    margin: 0;
+}
+
+#brand a {
+    text-decoration: none;
+}
+
+#brand a:link {
+    color: black;
+}
+
+#title {
+    margin-top: 10px;
+}
+
+#vcard {
+    margin: 0;
+    width: 30%;
+    display: inline-block;
+    float: right;
+}
+
+#vcard a {
+    float: right;
+    text-decoration: none;    
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+    box-shadow:inset 0px 1px 0px 0px #ffffff;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf));
+    background:-moz-linear-gradient(top, #ededed 5%, #dfdfdf 100%);
+    background:-webkit-linear-gradient(top, #ededed 5%, #dfdfdf 100%);
+    background:-o-linear-gradient(top, #ededed 5%, #dfdfdf 100%);
+    background:-ms-linear-gradient(top, #ededed 5%, #dfdfdf 100%);
+    background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf',GradientType=0);
+    background-color:#ededed;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    border-radius:6px;
+    border:1px solid #dcdcdc;
+    display:inline-block;
+    cursor:pointer;
+    color:#777777;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #ffffff;
+    top:1px;
+}
+
+#vcard a:hover {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed));
+    background:-moz-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+    background:-webkit-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+    background:-o-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+    background:-ms-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+    background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed',GradientType=0);
+    background-color:#dfdfdf;
+}
+
+#vcard a::active {
+    position:relative;
+    top:1px;
+}
+
+#speech {
+    margin: 0;
+    width: 63%;
+    display: inline-block;
+    text-align: justify;
+}
+
+#weblinks {
+    margin: 0 1.5%;
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+} 
+
+#weblinks ul {
+    list-style-type: none;
+}
+
+#weblinks ul li {
+    margin: 10px;
+}
+
+#weblinks ul li p {
+    margin: 0px;
+    font-style: italic;
+    font-size: 90%;
+}
+
+#weblinks ul li a {
+    text-decoration: none;    
+    font-size: 150%;
+}
+
+#social {
+    margin: 0;
+    width: 63%;
+    display: inline-block;
+}
+
+#social ul {
+    padding: 0px;
+    list-style-type: none;
+}
+
+#social ul li{
+    display: inline;
+    list-style-type: none;
+}
+
+#social ul li img{
+    height: 35px;
+    width: 35px;
+}
+
+#social ul li a {
+    text-decoration: none;
+}
+
+footer {
+    clear: both;
+    font-size: 70%;
+}
+
+footer p {
+    text-align: center;
+}
+
+

@@ -1,10 +1,9 @@
 BEGIN:VCARD
 N:Tanguy;Philippe;;Doctor Engineer in Electronics and Digital Communication;
-ADR;INTL;PARCEL;WORK:;; Technopôle Brest-Iroise;Brest;Bretagne;CS 83818 29238 Cedex 3;France
-EMAIL;INTERNET:philippe.tanguy1@telecom-bretagne.eu
-EMAIL;INTERNET:philip.tanguy@gmail.com
-ORG:Telecom Bretagne
-TEL;WORK:+33(0)2 29 00 14 40
-TITLE:Post-Doctorant
+ADR;INTL;PARCEL;WORK:;; 20 Avenue des Buttes de Coesmes;Rennes;Bretagne;35708;France
+EMAIL;INTERNET:philippe.tanguy@insa-rennes.fr
+ORG:INSA de Rennes
+TEL;WORK:+33(0)2 23 23 82 68
+TITLE:ATER
 URL;WORK:www.ptanguy.fr
 END:VCARD

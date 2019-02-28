@@ -1,9 +1,10 @@
 BEGIN:VCARD
-N:Tanguy;Philippe;;Doctor Engineer in Electronics and Digital Communication;
-ADR;INTL;PARCEL;WORK:;; 20 Avenue des Buttes de Coesmes;Rennes;Bretagne;35708;France
-EMAIL;INTERNET:philippe.tanguy@insa-rennes.fr
-ORG:INSA de Rennes
-TEL;WORK:+33(0)2 23 23 82 68
-TITLE:ATER
+N:Tanguy;Philippe;;Associate professor;
+ADR;INTL;PARCEL;WORK:;;Centre de Recherche Christiaan Huygens;rue de
+Saint-Maudé;BP 92116;F-56321;Lorient;Bretagne;France
+EMAIL;INTERNET:philippe.tanguy@univ-ubs.fr
+ORG:Université Bretagne Sud
+TEL;WORK:+33(0)2 97 87 45 67
+TITLE:
 URL;WORK:www.ptanguy.fr
 END:VCARD
